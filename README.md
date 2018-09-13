@@ -1,0 +1,2 @@
+# MCSBCKV
+It is an interactive, flexible and user friendly software for designing a multipurpose cold storage in Visual Studio Express Desktop2012 environment and evaluation. The developed software--- “MCS_BCKV” has a criterion for typical load estimation and designing of cold storage, selection of evaporator, compressor and condenser in developing country. Load estimating and designing through computer automation is likely to make a positive impact in the dynamic nature of cold storage applications. 
